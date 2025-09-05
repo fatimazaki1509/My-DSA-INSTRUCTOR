@@ -1,3 +1,4 @@
+![Uploading Screenshot 2025-09-06 003633.png…]()
 # 📘 DSA Instructor
 
 A simple and powerful tool to help learners master **Data Structures & Algorithms (DSA)**. This project provides a structured and beginner-friendly way to practice, visualize, and understand key DSA concepts.
