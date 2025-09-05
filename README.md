@@ -1,4 +1,6 @@
-![Uploading Screenshot 2025-09-06 003633.png…]()
+<img width="1919" height="1005" alt="Screenshot 2025-09-06 003751" src="https://github.com/user-attachments/assets/89a96150-0c4d-44e7-a8b0-a4685743d232" />
+<img width="1919" height="984" alt="Screenshot 2025-09-06 003633" src="https://github.com/user-attachments/assets/576017a4-1e35-4522-b2b8-2079b42af03f" />
+
 # 📘 DSA Instructor
 
 A simple and powerful tool to help learners master **Data Structures & Algorithms (DSA)**. This project provides a structured and beginner-friendly way to practice, visualize, and understand key DSA concepts.
