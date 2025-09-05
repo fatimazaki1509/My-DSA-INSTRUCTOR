@@ -1,0 +1,20 @@
+{
+  "name": "dsa_chatbot",
+  "version": "1.0.0",
+  "description": "\tA simple DSA chatbot using Google GenAI",
+  "type": "module",
+  "main": "DSA.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "chatbot",
+    "genai",
+    "dsa"
+  ],
+  "author": "Fatima Zaki",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.16.0"
+  }
+}
